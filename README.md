@@ -1,2 +1,3 @@
-# bootstraper
-bootstrap documentation and example
+# Bootstraper
+-- Bootstrap Documentation and Example
+-- Created by lethisa putri
